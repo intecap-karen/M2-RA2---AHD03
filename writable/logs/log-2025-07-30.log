@@ -1,0 +1,162 @@
+CRITICAL - 2025-07-30 16:42:10 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:42:17 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:42:36 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:42:49 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:43:38 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:43:40 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:15 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:16 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:19 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:27 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: empleados]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:40 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: empleados]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:44:44 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:06 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:10 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:38 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:39 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:39 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-30 16:46:43 --> ParseError: syntax error, unexpected token "(", expecting identifier or variable or "{" or "$"
+[Method: GET, Route: /]
+in APPPATH\Config\Routes.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(821): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

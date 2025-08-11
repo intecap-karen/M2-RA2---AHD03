@@ -1,0 +1,400 @@
+CRITICAL - 2025-07-31 14:45:47 --> Error: Class "App\Controllers\PuestosModel" not found
+[Method: GET, Route: puestos]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaPuestos()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 14:46:26 --> Error: Class "App\Controllers\PuestoModel" not found
+[Method: GET, Route: puestos]
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaPuestos()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 15:06:20 --> ParseError: syntax error, unexpected token "public"
+[Method: GET, Route: puestos]
+in APPPATH\Controllers\PuestoController.php on line 12.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2025\\codeigniter4-inventario\\app\\Controllers\\PuestoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PuestoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PuestoController')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\PuestoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 15:06:48 --> ParseError: Unmatched '}'
+[Method: GET, Route: puestos]
+in APPPATH\Controllers\PuestoController.php on line 17.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\fs2025\\codeigniter4-inventario\\app\\Controllers\\PuestoController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\PuestoController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\PuestoController')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\PuestoController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:05:35 --> Error: Class "App\Models\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:06:44 --> Error: Class "App\Models\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:06:53 --> Error: Class "App\Models\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:07:51 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:08:04 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:08:50 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:10:41 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:25:02 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:25:05 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:26:17 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:27:49 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:28:06 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:29:06 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:29:12 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:30:23 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:31:51 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:09 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:25 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:26 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:27 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:27 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:32:30 --> Error: Class "App\Models\EmpleadosModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->vistaEmpleados()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:35:25 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:35:27 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:35:27 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: GET, Route: empleados]
+in APPPATH\Controllers\EmpleadoController.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:36:10 --> Error: Class "App\Controllers\EmpleadoModel" not found
+[Method: POST, Route: agregarEmpleado]
+in APPPATH\Controllers\EmpleadoController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-31 16:36:25 --> mysqli_sql_exception: Duplicate entry '501' for key 'PRIMARY' in C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `em...', 0)
+#1 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `em...')
+#2 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `em...')
+#3 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `em...', Array, false)
+#4 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\fs2025\codeigniter4-inventario\app\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+#9 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+#10 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\fs2025\codeigniter4-inventario\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-07-31 16:36:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '501' for key 'PRIMARY'
+[Method: POST, Route: agregarEmpleado]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:36:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '501' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'501\', \'Felipe\', \'Guisini\', \'25836914\', \'15\', \'2000-06-10\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'501\', \'Felipe\', \'Guisini\', \'25836914\', \'15\', \'2000-06-10\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:36:25 --> [Caused by] mysqli_sql_exception: Duplicate entry '501' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'501\', \'Felipe\', \'Guisini\', \'25836914\', \'15\', \'2000-06-10\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'501\', \'Felipe\', \'Guisini\', \'25836914\', \'15\', \'2000-06-10\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'501\', \'Felipe\', \'Guisini\', \'25836914\', \'15\', \'2000-06-10\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-07-31 16:39:35 --> mysqli_sql_exception: Duplicate entry '502' for key 'PRIMARY' in C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `em...', 0)
+#1 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `em...')
+#2 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `em...')
+#3 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `em...', Array, false)
+#4 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\BaseModel.php(838): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Model.php(797): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\fs2025\codeigniter4-inventario\app\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+#9 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+#10 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Boot.php(363): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\fs2025\codeigniter4-inventario\system\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\fs2025\codeigniter4-inventario\public\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2025-07-31 16:39:35 --> CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '502' for key 'PRIMARY'
+[Method: POST, Route: agregarEmpleado]
+in SYSTEMPATH\Database\BaseConnection.php on line 684.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:39:35 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Duplicate entry '502' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'502\', \'Mary\', \'Shinko\', \'41257896\', \'14\', \'2004-01-27\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'502\', \'Mary\', \'Shinko\', \'41257896\', \'14\', \'2004-01-27\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-07-31 16:39:35 --> [Caused by] mysqli_sql_exception: Duplicate entry '502' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'502\', \'Mary\', \'Shinko\', \'41257896\', \'14\', \'2004-01-27\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'502\', \'Mary\', \'Shinko\', \'41257896\', \'14\', \'2004-01-27\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (\'502\', \'Mary\', \'Shinko\', \'41257896\', \'14\', \'2004-01-27\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `empleados` (`empleado_id`, `nombre`, `apellido`, `telefono`, `puesto_id`, `fecha_nacimiento`) VALUES (:empleado_id:, :nombre:, :apellido:, :telefono:, :puesto_id:, :fecha_nacimiento:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(838): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(797): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\EmpleadoController.php(26): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmpleadoController->agregarEmpleado()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmpleadoController))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
