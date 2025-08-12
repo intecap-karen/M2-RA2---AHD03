@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Editar Empleado</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
 </head>
@@ -25,7 +25,7 @@
                     <input type="number" name="txt_puesto_id" id="txt_puesto_id" class="form-control" value="<?=$datos['puesto_id'];?>">
                     <label for="txt_fecha_nacimiento" class="form-label">Fecha de Nacimiento</label>
                     <input type="date" name="txt_fecha_nacimiento" id="txt_fecha_nacimiento"class="form-control" value="<?=$datos['fecha_nacimiento'];?>">
-                    <button type="submit" class="form-control btn btn-primary mt-">Modificar Datos</button>
+                    <button type="submit" class="form-control btn btn-dark mt-3">Modificar Datos</button>
                 </form>
             </div>
         </div>

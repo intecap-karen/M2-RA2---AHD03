@@ -27,7 +27,6 @@ class EmpleadoController extends BaseController
         $empleado->insert($datos);
         //return $this->index();
         return redirect()->route('empleados');
-        
     }
     
     public function eliminar($id) 
