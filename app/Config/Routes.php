@@ -45,3 +45,10 @@ $routes->post('agregarMarca', 'MarcaController::agregarMarca');
 $routes->get('eliminar_marca/(:num)', 'MarcaController::eliminar/$1');
 $routes->get('buscar_marca/(:num)', 'MarcaController::buscar/$1');
 $routes->post('editar_marca', 'MarcaController::editar');
+
+//rutas de tipo de equipos (vista_tipos_equipos.php)
+$routes->get('tipos_equipos','TipoEquipoController::index');
+$routes->post('agregarTipoEquipo', 'TipoEquipoController::agregarTipoEquipo');
+$routes->get('eliminar_tipo_equipo/(:num)', 'TipoEquipoController::eliminar/$1');
+$routes->get('buscar_tipo_equipo/(:num)', 'TipoEquipoController::buscar/$1');
+$routes->post('editar_tipo_equipo', 'TipoEquipoController::editar');

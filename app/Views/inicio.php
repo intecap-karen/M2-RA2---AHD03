@@ -16,8 +16,7 @@
             INICIO
         </h1>
         <div class="row justify-content-center mt-5">
-            
-            <div class="card mb-3 col-4 me-3" style="width: 18rem;">
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
                 <div class="card-body">
                     <h5 class="card-title">Usuarios</h5>
                     <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
@@ -25,7 +24,7 @@
                     <a href="<?=base_url('usuarios');?>" class="btn btn-dark">Ir a Usuarios</a>
                 </div>
             </div>
-            <div class="card mb-3 col-4 me-3" style="width: 18rem;">
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
                 <div class="card-body">
                     <h5 class="card-title">Puestos de Empleados</h5>
                     <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
@@ -33,7 +32,7 @@
                     <a href="<?=base_url('puestos');?>" class="btn btn-dark">Ir a Puestos</a>
                 </div>
             </div>
-            <div class="card mb-3 col-4 me-3" style="width: 18rem;">
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
                 <div class="card-body">
                     <h5 class="card-title">Empleados</h5>
                     <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
@@ -41,7 +40,7 @@
                     <a href="<?=base_url('empleados');?>" class="btn btn-dark">Ir a Empleados</a>
                 </div>
             </div>
-            <div class="card mb-3 col-4 me-3" style="width: 18rem;">
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
                 <div class="card-body">
                     <h5 class="card-title">Equipos</h5>
                     <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
@@ -49,12 +48,20 @@
                     <a href="<?=base_url('equipos');?>" class="btn btn-dark">Ir a Equipos</a>
                 </div>
             </div>
-            <div class="card mb-3 col-4 me-3" style="width: 18rem;">
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
                 <div class="card-body">
                     <h5 class="card-title">Marcas</h5>
                     <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
                         datos.</p>
                     <a href="<?=base_url('marcas');?>" class="btn btn-dark">Ir a Marcas</a>
+                </div>
+            </div>
+            <div class="card mb-3 col-4 me-3" style="width: 20rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Tipos Equipos</h5>
+                    <p class="card-text">Tabla organizada en formato de lista para seleccionar, agregar y eliminar
+                        datos.</p>
+                    <a href="<?=base_url('tipos_equipos');?>" class="btn btn-dark">Ir a Tipos Equipos</a>
                 </div>
             </div>
         </div>
